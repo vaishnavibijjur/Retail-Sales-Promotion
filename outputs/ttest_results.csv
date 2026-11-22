@@ -1,0 +1,12 @@
+Statistic,Value
+Ordinary-day mean,5929.407603487516
+Promotion-day mean,8228.281239386994
+Mean difference,2298.8736358994774
+Percentage difference,38.77071352874008
+Welch t-statistic,356.6357238880086
+Welch degrees of freedom,729119.0299799585
+p-value,0.0
+95% CI lower,2286.239688402832
+95% CI upper,2311.5075833961228
+Cohen's d,0.7965047406136166
+Significance level,0.05

@@ -1,0 +1,9 @@
+Diagnostic,Value
+Breusch-Pagan LM statistic,26187.105888928258
+Breusch-Pagan LM p-value,0.0
+Breusch-Pagan F statistic,1501.3683763279364
+Breusch-Pagan F p-value,0.0
+Maximum leverage,0.014203448292921307
+Maximum Cook's distance,0.04654168085513236
+Cook's distance threshold,4.737136306360079e-06
+Potentially influential observations,33666.0

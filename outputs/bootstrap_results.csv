@@ -1,0 +1,10 @@
+Statistic,Value
+Ordinary-day mean sales,5929.407603487516
+Promotion-day mean sales,8228.281239386994
+Observed mean uplift,2298.8736358994774
+Observed percentage uplift,38.77071352874008
+Bootstrap standard error,6.45471055084825
+95% CI lower,2286.6382977546664
+95% CI upper,2311.5611734296203
+Percentage uplift CI lower,38.56436343505426
+Percentage uplift CI upper,38.98469000630052
